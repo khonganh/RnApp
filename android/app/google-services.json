@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "919935843467",
+    "project_id": "rn-app-f5002",
+    "storage_bucket": "rn-app-f5002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919935843467:android:858fbf3f690fc0ea76a88e",
+        "android_client_info": {
+          "package_name": "com.anhkn.rnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919935843467-6unhjdo7asb92uubo1r5h09j6ep08rh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anhkn.rnapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "919935843467-4be212eq636m2k2r4ul774l0vdiq65p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZTko3o9fPtQrRS53ODV3F0Y97z4rdkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919935843467-4be212eq636m2k2r4ul774l0vdiq65p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919935843467-3h0b201meodjbu0up47roih4fmh9at27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anhkn.rnapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
