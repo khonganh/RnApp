@@ -26,6 +26,15 @@ target 'RNApp' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+   # Pods for test_google_signin
+   pod 'GoogleSignIn', '~> 6.2.4'
+
+  pod 'Firebase', :modular_headers => true
+  pod 'FirebaseCore', :modular_headers => true
+  # pod 'FirebaseCoreInternal', :modular_headers => true
+  pod 'GoogleUtilities', :modular_headers => true
+  $RNFirebaseAsStaticFramework = true
+
   target 'RNAppTests' do
     inherit! :complete
     # Pods for testing
